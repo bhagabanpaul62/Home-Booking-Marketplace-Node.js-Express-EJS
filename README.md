@@ -23,4 +23,4 @@ A beginner-friendly **home booking marketplace** built with **Node.js, Express, 
 1. Clone the repository:  
    ```sh
    git clone https://github.com/bhagabanpaul62/Home-Booking-Marketplace-Node.js-Express-EJS.git
-   cd home-booking-marketplace
+   
